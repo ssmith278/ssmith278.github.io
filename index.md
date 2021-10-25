@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Hi, I'm Steve.
 
-You can use the [editor on GitHub](https://github.com/ssmith278/ssmith278.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Ever since I was a wee lad it's been my dream to make video games. Since then, I've developed a range of skills in Software Engineering and Design in my attempts to achieve that goal. Along the way somewhere I also picked up a love for billiards 🎱 and travelling ✈
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***Here's my face:***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssmith278/ssmith278.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![117726535_10158022989261339_929616695320887640_o - Copy](https://user-images.githubusercontent.com/9167263/138691720-8cbe8b45-0a9e-4b5c-8e90-0f55716960d8.jpg)
